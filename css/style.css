@@ -1,0 +1,29 @@
+body {
+  margin: 20px 20px;
+  padding: 20px 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.contentCenter {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+b {
+  margin-bottom: 50px;
+  font-size: 1.6em;
+}
+.listItems {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#navbar-example2 {
+  display: flex;
+  justify-content: center;
+}
